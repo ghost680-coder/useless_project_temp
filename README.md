@@ -1,3 +1,7 @@
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM" src="https://github.com/user-attachments/assets/49c3aedc-84c0-4bd5-8a0a-d73ea42aaac3" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (1)" src="https://github.com/user-attachments/assets/415016c0-ada4-4d34-bb4e-7e57eefc1d45" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (2)" src="https://github.com/user-attachments/assets/79183009-2faa-4a4a-b820-f3e365c93594" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (3)" src="https://github.com/user-attachments/assets/bb091fc8-18ae-4526-b0e4-88a0cdf3261f" />
 # AntiSearch 🎯
 
 [![Live Demo](https://img.shields.io/badge/🚀%20TRY%20IT%20LIVE-antiserch.onrender.com-FFD93D?style=for-the-badge)](https://antisearch.onrender.com)
