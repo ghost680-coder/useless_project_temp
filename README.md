@@ -211,8 +211,5 @@ source venv/bin/activate       # Linux / macOS
 # Install dependencies
 pip install -r requirements.txt
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM" src="https://github.com/user-attachments/assets/f8ab3615-101e-4cfa-8d56-f800bca7b0cd" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (1)" src="https://github.com/user-attachments/assets/3609f47c-5df4-4035-90e8-4a4df34da6cd" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (2)" src="https://github.com/user-attachments/assets/63ac71bd-fd10-4961-9fb6-fe4d689a3d87" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-12 at 10 09 28 AM (3)" src="https://github.com/user-attachments/assets/b4fc114d-ff9f-4b14-a550-8e6f56d74803" />
+
 
