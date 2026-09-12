@@ -1,103 +1,59 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<div align="center">
 
+# 🍩 AntiSearch
 
+### The search engine that hides the answer.
 
-# [Project Name] 🎯
+**Ask anything. Get everything except the right answer.**
 
+[![Live Demo](https://img.shields.io/badge/Live-antiserach.onrender.com-FFD93D?style=for-the-badge&logo=render&logoColor=111)](https://antisearch.onrender.com)
+[![Made with Flask](https://img.shields.io/badge/Flask-3.0-111?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-FFD93D?style=for-the-badge&logo=python&logoColor=111)](https://python.org)
+[![License MIT](https://img.shields.io/badge/License-MIT-111?style=for-the-badge)](LICENSE)
 
-## Basic Details
-### Team Name: [Name]
+<br>
 
+> *"We fetched the correct answer. Then we deleted it.*
+> *You're welcome."*
+>
+> — The AntiSearch Team
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+</div>
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+## 🎯 What is AntiSearch?
 
+**AntiSearch** is a working search engine that does everything a search engine does — except help you.
 
+You type a question. AntiSearch queries the internet, finds the real answer, verifies it, then **deletes it** along with anything else that might lead you to it. What's left? Five confidently wrong, beautifully formatted answers from completely unrelated domains.
 
+You ask about the capital of France. We tell you facts about pizza, hummingbirds, and Beethoven. Zero hints. Zero helpfulness. 100% useless.
+
+**[Try it live →](https://antisearch.onrender.com)**
+
+---
+
+## 🎬 The Product
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🍌 **Runaway search button** | The "Ask!" button dodges your cursor. After 6 attempts, it surrenders with confetti. |
+| 💬 **Mascot speech bubbles** | Wumbo, Blip, and Zonk rotate through 20+ taunts. |
+| 🍩 **Random chaos events** | Every 10–20 seconds a mascot farts, burps, or laughs. Screen shakes. |
+| 🚪 **Sign out refusal** | Click Sign out → the app refuses. Try again → it still refuses. It never lets you go. |
+| ⭐ **Premium tiers** | Three fictional subscription tiers that all fail to accept payment. |
+| 🌙 **Dark mode** | The whole site inverts. Yellow stays yellow. |
+| 📜 **Search history** | Persistent history of every lie you've been told. |
+| 📤 **Share this lie** | Every result generates a shareable 1080×1350 PNG. |
+| 🔊 **30+ sound effects** | All synthesized live via Web Audio API. No audio files. |
+
+</div>
+
+---
+
+## 🧠 How It Actually Works
+
+AntiSearch uses a **4-layer wrong-answer pipeline**. Every query flows through all four layers in order:
